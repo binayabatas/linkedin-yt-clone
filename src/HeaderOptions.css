@@ -1,0 +1,13 @@
+.headerOptions {
+    padding: 0 10px;
+    text-align: center;
+}
+
+.headerOption__title {
+    color: gray;
+    font-size: 12px;
+}
+
+.headerOption__icon {
+    color: gray;
+}
